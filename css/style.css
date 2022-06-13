@@ -29,6 +29,7 @@ body {
 @font-face {
    font-family: 'ProximaNova-SemiBold';
    font-weight: 700;
+  src: url(../font/ProximaNova-SemiBold.ttf);
 }
 
 .container {
