@@ -5,7 +5,7 @@
 
 body {
   font-size: 14px;
-  font-family: 'Montserrat';
+  font-family: 'MontserratMedium';
 }
 
 @font-face {
@@ -402,6 +402,7 @@ body {
 
 .header__telephone {
   font-weight: 800;
+  font-family: 'MontserratExtraBold';
   font-size: 26px;
   line-height: 32px;
   color: black;
@@ -909,6 +910,7 @@ body {
 .btn-call-link:hover {
   color: rgba(0, 0, 0, 0.562);
   font-weight: 700;
+  font-family: 'MontserratSemiBold';
 }
 
 .main-1920 {
@@ -958,6 +960,7 @@ body {
 
 .main__title {
   font-weight: 800;
+   font-family: 'MontserratExtraBold';
   font-size: 81px;
   margin-top: 113px;
   line-height: 89px;
@@ -1113,6 +1116,7 @@ body {
   margin-right: -13px;
   font-size: 18px;
   font-weight: 700;
+  font-family: 'MontserratSemiBold';
   color: white;
   text-decoration: none;
   position: relative;
@@ -1558,6 +1562,7 @@ body {
 
 .main__count-number {
   font-weight: 700;
+  font-family: 'MontserratSemiBold';
   font-size: 50px;
   background: linear-gradient(45deg, #FFCC00 33%, #FFA300 66%);
   -webkit-background-clip: text;
@@ -1633,6 +1638,7 @@ body {
 
 .content__title {
   font-weight: 800;
+  font-family: 'MontserratExtraBold';
   font-size: 48px;
   max-width: 1000px;
   margin: 0 auto;
@@ -1645,6 +1651,7 @@ body {
 @media (max-width: 1366px) {
   .content__title {
     font-weight: 700;
+    font-family: 'MontserratSemiBold';
     letter-spacing: 0.4px;
     font-size: 43px;
     line-height: 45px;
@@ -1764,6 +1771,7 @@ body {
 
 .item__name {
   font-weight: 700;
+  font-family: 'MontserratSemiBold';
   font-size: 26px;
   text-align: center;
   margin-bottom: 12px;
@@ -2372,6 +2380,7 @@ body {
 
 .shops__title {
   font-weight: 800;
+   font-family: 'MontserratExtraBold';
   font-size: 60px;
   margin-bottom: 52px;
 }
@@ -2521,6 +2530,7 @@ body {
   font-size: 18px;
   color: black;
   font-weight: 700;
+  font-family: 'MontserratSemiBold';
   padding: 25px 15px;
   text-decoration: none;
   -webkit-transition: 0.4s;
