@@ -9,32 +9,32 @@ body {
 }
 
 @font-face {
-  font-family: 'Montserrat';
-  font-weight: 700;
-  src: url(font/Montserrat-SemiBold.ttf);
+   font-family: 'MontserratExtraBold';
+   font-weight: 800;
+   src: url(../font/Montserrat-ExtraBold.ttf);
 }
 
 @font-face {
-  font-family: 'Montserrat';
-  font-weight: 800;
-  src: url(font/Montserrat-ExtraBold.ttf);
+   font-family: 'MontserratMedium';
+   font-weight: 500;
+   src: url(../font/Montserrat-Medium.ttf);
 }
 
 @font-face {
-  font-family: 'Montserrat';
-  font-weight: 500;
-  src: url(font/Montserrat-Medium.ttf);
+   font-family: 'MontserratSemiBold';
+   font-weight: 700;
+   src: url(../font/Montserrat-SemiBold.ttf);
 }
 
 @font-face {
-  font-family: 'ProximaNova';
-  font-weight: 500;
-  src: url(font/ProximaNova-Regular.ttf);
+   font-family: 'ProximaNova';
+   font-weight: 500;
 }
 
 .container {
   max-width: 1920px;
   width: 100%;
+ src: url(../font/ProximaNova-Regular.ttf);
 }
 
 .inner {
